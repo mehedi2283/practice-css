@@ -1,0 +1,9 @@
+h1{
+    background-color: chartreuse;
+    border: 5px solid rgb(225, 0, 255);
+    border-radius: 15px;
+    margin-right: 400px;
+    margin-left: 400px;
+
+    padding: 10px;
+}
